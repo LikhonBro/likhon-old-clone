@@ -1,9 +1,1 @@
 ﻿# likhon-old-clone
-
-
------command----
-pip install pycurl 
-rm -rf likhon-old-clone
-git clone https://github.com/LikhonBro/likhon-old-clone.git
-cd likhon-old-clone
-python likhon-fb-old-clone.py
